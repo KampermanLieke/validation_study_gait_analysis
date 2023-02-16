@@ -6,7 +6,8 @@ Sint Maartenskliniek study ID: 0900_Smarten_the_Clinic_V2
 Author:         C.J. Ensink, c.ensink@maartenskliniek.nl
 Last update:    14-12-2022
 
-Main script
+Main script 
+% Test aanpassen
 
 """
 
